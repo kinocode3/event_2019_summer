@@ -1,3 +1,4 @@
+
 body {
   font-size: 20px;
   text-align: center;
@@ -116,27 +117,7 @@ iframe{
   margin-top: 30px;
 }
 
-#top-img{
-  position: relative;
-  height: 600px;
-  width: 100%;
-  background-image: url("imgs/minecraft.jpeg");
-  background-size: cover; 
-  margin-bottom: 0 50px;
-}
 
-#site-name {
-  margin: auto;
-  font-size: 70px;
-  font-weight: normal;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform : translate(-50%,-50%);
-  color: white;
-  text-shadow: 0 10px 10px rgba(0, 0, 0, 1);
-  
-}
 
 #pageTop {
   position: fixed;
@@ -192,8 +173,5 @@ iframe{
   height: 300px;
 }
 .small{
-  text-align: right;
-}
-.kome{
   text-align: right;
 }
