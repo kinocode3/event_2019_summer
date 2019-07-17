@@ -110,9 +110,23 @@ img{
   padding: 90px 10px;
   margin: 0 auto;
 }
-.card{
+.card-title{
   font-size: 14px;
+  text-shadow:1px 1px 0 #000, -1px -1px 0 #000,
+              -1px 1px 0 #000, 1px -1px 0 #000,
+              0px 1px 0 #000,  0-1px 0 #000,
+              -1px 0 0 #000, 1px 0 0 #000;
 }
+
+.site-name{
+  color: #FFF;
+  text-shadow:1px 1px 0 #000, -1px -1px 0 #000,
+              -1px 1px 0 #000, 1px -1px 0 #000,
+              0px 1px 0 #000,  0-1px 0 #000,
+              -1px 0 0 #000, 1px 0 0 #000;
+}
+
+
 iframe{
   margin-top: 30px;
 }
@@ -177,3 +191,6 @@ iframe{
 }
 
 
+.toku{
+  background-color: #afeeee;
+}
